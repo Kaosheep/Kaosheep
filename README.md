@@ -1,5 +1,4 @@
-- 👋 您好，我是高暄雅 @Kaosheep
-- 👀 目前正在找尋前端工程師職缺
+ @Kaosheep
 
 <!---
 Kaosheep/Kaosheep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
